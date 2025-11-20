@@ -18,7 +18,7 @@ It supports smart Q/A, resume analysis, RAG-based custom data retrieval, streami
  Backend built with FastAPI, Frontend with React/Tailwind
 
  Features
-1. AI Chat (General Queries)
+1. AI Chat 
 
 Ask anything about placements, companies, skills, resume tips.
 
@@ -48,34 +48,9 @@ Projects
 
 5. Streaming Chat
 
-ChatGPT-like typing effect using Server-Sent Events
+ChatGPT-like typing effect 
 
- Visual Overview
-
-(Add your own images later — I’m leaving placeholders)
-
- 1. System Architecture Diagram
-<Add Image Here>
-
- 2. Chat UI Screenshot
-<Add Image Here>
-
- 3. API Response Examples
-<Add Image Here>
-
- Tech Stack
-
- Python (FastAPI)
-
- OpenAI GPT
-
- ChromaDB Vector Database
-
- React + Tailwind CSS
-
- Uvicorn Server
-
- Repository Structure
+Repository Structure
 Placenix/
 │
 ├── backend/
@@ -136,28 +111,4 @@ npm start
 
 Frontend runs at:
  http://localhost:3000/
-
-Learnings
-
-How to integrate LLMs with FastAPI
-
-Implementing RAG pipelines
-
-Using ChromaDB for vector search
-
-Building a complete ML + AI system
-
-Designing a chatbot UI with streaming
-
-Future Enhancements
-
-Add admin dashboard
-
-Student performance analytics
-
-Integration with WhatsApp bot
-
-Deploy on Render/EC2
-
-Add authentication system
 
